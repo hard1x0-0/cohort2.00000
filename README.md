@@ -2,6 +2,8 @@
 
 This repository contains various web development projects and exercises from Cohort 2.00000.
 
+This project shows my daily growth and work done daily from day 1 to upcoming days.
+
 ## Project Structure
 
 - `apple_copy/` - Apple website recreation with HTML and CSS
