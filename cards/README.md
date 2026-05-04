@@ -10,3 +10,5 @@ This folder contains a card component implementation using HTML and CSS.
 ## How to View
 
 Open `cards.html` in a web browser to see the card component.
+
+day 2 adding animation to cards
